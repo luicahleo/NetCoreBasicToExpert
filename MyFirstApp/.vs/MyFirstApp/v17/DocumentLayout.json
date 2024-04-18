@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\NetCoreBasicToExpert\\MyFirstApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0CA5336-9470-4D33-9DC7-A04DF419F18A}|MyFirstApp.csproj|g:\\netcorebasictoexpert\\myfirstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0CA5336-9470-4D33-9DC7-A04DF419F18A}|MyFirstApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0CA5336-9470-4D33-9DC7-A04DF419F18A}|MyFirstApp.csproj|g:\\netcorebasictoexpert\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0CA5336-9470-4D33-9DC7-A04DF419F18A}|MyFirstApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -10,7 +14,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 167,
       "DocumentGroups": [
         {
           "DockedHeight": 200,
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\NetCoreBasicToExpert\\MyFirstApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "G:\\NetCoreBasicToExpert\\MyFirstApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T21:58:59.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\NetCoreBasicToExpert\\MyFirstApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
